@@ -5,7 +5,7 @@ The appilcation uses html, css, and javascript.
 
 ## Screenshot of the application
 
-![Screenshot](./img/Screenshot%202022-07-06%20213105.png)
+![Screenshot](./img/Screenshot%202022-08-23%20185602.png)
 
 
 
